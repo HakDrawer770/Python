@@ -1,1 +1,1 @@
-# OpenLinux
+# Dcalc.py -  это калькулятор.
